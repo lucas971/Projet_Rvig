@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - munition
+  - PlayerProjectile
+  - Asteroid
+  - Destination
+  - Shooter
+  - Missile
+  - Target
+  - SciFiBoxAnchor
+  - ThermonjoncteurAnchor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - RotationController
+  - Destination
+  - Hand
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: DEVANT
+    uniqueID: 1212962577
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

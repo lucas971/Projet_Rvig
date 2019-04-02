@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/CinematiqueD\xE9but.unity"
+    guid: 232ad306cc68d624cb6eed69f4c2f2d2
+  - enabled: 1
+    path: Assets/Scenes/SceneFinale.unity
+    guid: 6287a1fe15d44974aade035974d26997
+  - enabled: 1
+    path: Assets/Scenes/MiddleScene.unity
+    guid: 5ea7713129339d04aa5ef53ee8104661
+  - enabled: 1
+    path: Assets/Scenes/CinematiqueFin.unity
+    guid: d507e42ace6af8f4b95860e618e66d53
+  m_configObjects: {}
